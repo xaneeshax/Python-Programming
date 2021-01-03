@@ -1,8 +1,3 @@
-"""
-Created on Sat Aug 15 22:47:03 2020
-
-@author: anees
-"""
 from Queues import Queue 
 from Stacks import Stack
 
