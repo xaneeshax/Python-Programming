@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 21 23:49:28 2020
-
-@author: anees
-"""
 
 class Node:
     def __init__(self, data):
