@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 24 16:13:19 2020
-
-@author: anees
-"""
-
 def linear_search(data, target):
     for i in range(len(data)):
         if data[i] == target:
